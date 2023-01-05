@@ -2,7 +2,6 @@
 I'm currently working on a few projects based on React and MERN stack.<br>I'm currently learning technologies that will help me make <br>my web apps look better and will make me more proficient as <br>a programmer.<br>In the future, I have plans to learn Mobile Development and any suggestion<br>regarding it is welcome.<br>Here's a fun fact to blow your mind.<br>The original lemon was a hybrid between a male citron and a <br>female sour orange.<br>So when someone says, <br>"When life gives you lemon you make lemonade".<br>you'd know that we made that lemon!.<br>
 
 
-<iframe src="https://giphy.com/embed/Q2T7BXRiDFPJcPoA7Z" width="480" height="294" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/bringglobal-work-computer-laptop-Q2T7BXRiDFPJcPoA7Z">via GIPHY</a></p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shortlisted_weirdo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjukta-singha-74069b97/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Weirdloon) 
