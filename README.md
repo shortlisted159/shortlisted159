@@ -15,9 +15,6 @@ I'm currently working on a few projects based on React and MERN stack.<br>I'm on
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shortlisted159&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/Weirdloon?t=iU2SIGAO4zKxIANw2iSTLQ&s=09)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
