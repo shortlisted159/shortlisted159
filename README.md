@@ -22,5 +22,5 @@ I'm currently working on a few projects based on React and MERN stack.<br>I'm on
 [![](https://visitcount.itsvg.in/api?id=shortlisted159&icon=1&color=8)](https://visitcount.itsvg.in)
 
 
-<iframe src="https://giphy.com/embed/Q2T7BXRiDFPJcPoA7Z" width="480" height="294" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/bringglobal-work-computer-laptop-Q2T7BXRiDFPJcPoA7Z"></a></p>
+<img src = "https://media.giphy.com/media/Q2T7BXRiDFPJcPoA7Z/giphy.gif" width = "100"/>
 
