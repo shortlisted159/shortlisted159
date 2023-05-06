@@ -27,7 +27,7 @@ I'm currently working on a few projects based on React and MERN stack.<br>I'm on
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-###⚡ Gist
+### ⚡ Gist
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shortlisted159&theme=gruvbox)
 
 
